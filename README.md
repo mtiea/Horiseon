@@ -6,13 +6,13 @@ NAME
 
 PURPOSE
   
-   This project was given to me to help me refractor code
+   This assignment was givien to me to help me with the practice of refractoring code.
 
 
 
 DESCRIPTION
 
-   Ive made changes to the Horiseon website to help viewers read through more effeciantly rather than having to squint at small text. Also, the website allows you to navigate easier as each subheading is divided within its clearly visible text box. This means you can click on the subheading at the top of the page then will navigate to its subheading and its description without any other subheadings in the picture.
+   Ive made changes to the Horiseon website to help viewers view the website more effeciantly rather than having to squint at small text. Also, the website allows you to navigate easier as each subheading is divided within its clearly visible text box. This means you can click on the subheading at the top of the page then will navigate to its subheading and its description without any other subheadings in the picture. The website also includes the hover element, this allows you to hover over the subtitles at the top & will change its color to black.
 
 
 
@@ -21,6 +21,13 @@ INSTALLATION
    When you click on the live url, the page should refresh automatically to the Horiseon Webpage.
 
 
+USAGE
+
+    
+
+
+
+    
 CREDIT 
     
     Magdi Tiea

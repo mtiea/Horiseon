@@ -152,3 +152,7 @@ footer h2 {
 p{
     line-height: 50px;
 }
+
+a:hover{
+    color: black;
+}
