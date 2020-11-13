@@ -16,18 +16,8 @@ DESCRIPTION
 
 
 
-INSTALLATION
-
-   When you click on the live url, the page should refresh automatically to the Horiseon Webpage.
 
 
-USAGE
-
-    
-
-
-
-    
 CREDIT 
     
     Magdi Tiea
