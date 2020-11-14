@@ -27,4 +27,4 @@ Ive made changes to the Horiseon website to help viewers view the website more e
 [Click here to view the Website Link](targetURL)
 
 ## Githhub profile link
-[Click here to view my Github Profile](https://github.com/mtiea/Horiseon-Website "Github profile")
+[Click here to view my Github Profile](https://github.com/mtiea")
