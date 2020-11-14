@@ -98,6 +98,7 @@ main {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    
 }
 
 .benefit {
@@ -156,3 +157,11 @@ p{
 a:hover{
     color: black;
 }
+ hr {
+    border-bottom-width: 7px;
+    max-width: 100%;
+ }
+
+ h3 {
+     font-size: 25px;
+ }
