@@ -1,13 +1,12 @@
 
 ## NAME
 
-       Refractoring Code Assignment (Horiseon Website)
+       Refractoring Code Assignment 
 
 
 ## PURPOSE
   
-My purpose for this doing this assignment is because its helping me practice refractoring website code.
-
+I'm doing this assignment becuase it is helping me practice refractor code.
 
 
 ## DESCRIPTION
@@ -24,9 +23,9 @@ Ive made changes to the Horiseon website to help viewers view the website more e
     Magdi Tiea
     
     
-## Website link
+## Website link (Horiseon Website)
 
-[Click to view the new Horiseon Website](https://mtiea.github.io/Horiseon/)
+[Click to view the Webpage](https://mtiea.github.io/Horiseon/)
 
 ## Github Profile
 
