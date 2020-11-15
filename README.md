@@ -27,6 +27,8 @@ Ive made changes to the Horiseon website to help viewers view the website more e
 
 [Click to view the Webpage](https://mtiea.github.io/Horiseon/)
 
+Raw link: [https://mtiea.github.io/Horiseon/](https://mtiea.github.io/Horiseon/)
+
 ## Github Profile
 
 [Click to view my Github profile](https://github.com/mtiea)
