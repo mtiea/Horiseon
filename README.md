@@ -15,7 +15,7 @@ Ive made changes to the Horiseon website to help viewers view the website more e
 
 ## Usage
 
-![Hover](https://github.com/mtiea/Horiseon/blob/main/images/Hover%20sreenshot.png?raw=true "Title")
+![Hover](https://github.com/mtiea/Horiseon/blob/main/images/Hover%20sreenshot.png?raw=true "The image below is explaining how the hover element works")
 
 
 ## CREDIT 
